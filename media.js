@@ -7,7 +7,7 @@ let sit = document.getElementById('situacao')
 btnCalcular.addEventListener('click', (e)=>{
    let nota1 = Number(cxnota1.value)
    let nota2 = Number(cxnota2.value)
-   if(nota1 < 0 || nota1 > 10 || nota1 < 0 || nota2 > 10 || nota1 == "" || nota2 == ""){
+   if(nota1 < 0 || nota1 > 10 || nota2 < 0 || nota2 > 10 || nota1 == "" || nota2 == ""){
     alert('Digite uma nota entre 0 e 10!')
    }else{
    let media = (nota1 + nota2) / 2
