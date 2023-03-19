@@ -9,6 +9,7 @@
 
 body {
     width: 100vw;
+    overflow: hidden;
 }
 
 main {
@@ -18,8 +19,6 @@ main {
     justify-content: center;
     height: 100vh;
     background-color: rgb(74, 74, 74);
-    overflow: hidden;
-    
 }
 
 form {
