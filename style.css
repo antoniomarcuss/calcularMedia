@@ -119,7 +119,7 @@ label {
     
     form {
         width: 70vw;
-        height: 330px;
+        height: 300px;
         display: flex;
         flex-flow: column wrap;
         align-items: center;
@@ -144,7 +144,7 @@ label {
     
     form {
         width: 850px;
-        height: 360px;
+        height: 330px;
         display: flex;
         flex-flow: column wrap;
         align-items: center;
