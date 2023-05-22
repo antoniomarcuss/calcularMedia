@@ -31,9 +31,9 @@ form {
     border-radius: 10px;
     overflow: hidden;
     transition: width .2s, height .1s;
-    transition-timing-function: ease;
-    
+    transition-timing-function: ease; 
 }
+
 
 header {
     margin-bottom: 20px;
